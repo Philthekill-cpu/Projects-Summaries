@@ -19,7 +19,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 1. Low Carbon Water Supply System
 * **Objective:** Develop and evaluate engineering solutions for a new potable water supply system to meet increased demand in the Aberdeen Water Operational Area. The design must ensure reliable water abstraction, treatment, transmission, and storage while minimising whole-life carbon emissions and supporting a net-zero future.
 * **My Contribution:** Spearheaded fluid network calculations (routing,pressure drop, pipe sizing) and programmed a code that reveals the optimal pipe diameter for minimised carbon emission.
-* **Key Deliverables:** [Technical Reports](./low-carbon-water/technical-reports), [Project Results](./low-carbon-supply-system/project-results) and [Software Code](./low-carbon-water/software-code/).
+* **Key Deliverables:** [Technical Reports](./low-carbon-water-supply-system/technical-reports), [Project Results](./low-carbon-water-supply-system/project-results) and [Software Code](./low-carbon-water-supply-system/software-code/).
 
 ### 2. Vertical Axis Wind Turbine (VAWT) Prototype
 * **Objective:** Engineered and manufactured a bench-scale vertical axis wind turbine optimized for low-speed urban environments.
