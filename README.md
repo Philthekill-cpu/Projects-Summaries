@@ -11,6 +11,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 | :--- | :--- | :--- | :--- |
 | **Low Carbon Water Supply System** | Group | Fluid Dynamics, Sustainability, FEA | [📁 View Folder](./low-carbon-water-supply-system) |
 | **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping, CNC Milling | [📂 View Folder](./vertical-axial-wind-turbine-proto) |
+| **Solar System Design** | Group | Solar Resource, Solar Market Analysis, Solar Farm Policies, PVSyst | [📂 View Folder](./solar-system-design) |
 | **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-data-analytics-site-assessment) |
 | **Bio-Inspired Engineering Design** | Individual | Bioengineering, Mechanics, Materials | [📂 View Folder](./bio-inspired-design) |
 
@@ -22,16 +23,21 @@ Welcome to my engineering project repository. This dashboard serves as a central
 * **Key Deliverables:** [Technical Reports](./low-carbon-water-supply-system/technical-reports), [Project Results](./low-carbon-water-supply-system/project-results) and [Software Code](./low-carbon-water-supply-system/software-code/).
 
 ### 2. Vertical Axis Wind Turbine (VAWT) Prototype
-* **Objective:** Engineered and manufactured a bench-scale vertical axis wind turbine optimized for low-speed urban environments.
-* **My Contribution:** Designed the airfoil profiles in SolidWorks, performed CFD (Computational Fluid Dynamics) aerodynamic simulations, and 3D-printed the rotor blades.
-* **Key Deliverables:** [Technical Reports](./vertical-axial-wind-turbine-proto), [Project Results](./vertical-axial-wind-turbine-proto).
+* **Objective:** Design and manufacture a 5 Volt output wind turbine device that converts wind energy into a Morse code light signal communicating “IT IS WINDY” at wind speeds between 10 m/s and 20 m/s. The device will achieve a Technology Readiness Level (TRL) 4 prototype level while meeting constraints on size, cost, manufacturability, and mechanical integration through the use of a gearing system.
+* **My Contribution:** Designed the generator in AutoCad, evaluated the design using Finite Element Method Magnetics (FEMM), fabricated the generator using CNC milling and programmed the Arduino code. 
+* **Key Deliverables:** [Technical Reports](./vertical-axial-wind-turbine-proto/technical-reports), [Project Results](./vertical-axial-wind-turbine-proto/project-results) and [Software Code](./vertical-axial-wind-turbine-proto/software-code).
 
-### 3. Wind Analytics Site Assessment
+### 3. Solar System Design
+* **Objective:** Investigate and compare solar energy potential, market development, policies, and photovoltaic (pv) technologies between the UK and a selected country. Then design and evaluate suitable PV systems for both locations through technical and economic analysis, while also assessing current and emerging solar thermal applications.
+* **My Contribution:** Conducted extensive reseearch on the solar resource, market and policies between Gibraltar, UK and Madrid, Spain. Then used PVSyt to design and evaluate the PV solar farm potential.
+* **Key Deliverables:** [Technical Reports](./solar-system-design/technical-reports) and [Project Results](./solar-system-design/project-results).
+
+### 4. Wind Analytics Site Assessment
 * **Objective:** Conducted a comprehensive meteorological and financial feasibility study for a proposed 50MW onshore wind farm.
 * **My Contribution:** Analyzed 10 years of raw wind speed data using MATLAB/Python to calculate Weibull distribution parameters and forecast annual energy production (AEP).
 * **Key Deliverables:** [Site Assessment & Resource Forecasting Study](./wind-data-analytics-site-assessment).
 
-### 4. Bio-Inspired Engineering
+### 5. Bio-Inspired Engineering
 * **Objective:** Developed a mechanical structure utilizing biomimicry principles (inspired by bone microstructure) to optimize the strength-to-weight ratio of a load-bearing beam.
 * **My Contribution:** Handled the material selection matrix and mathematical optimization algorithms for the internal lattice structures.
 * **Key Deliverables:** [Technical Reports](./bio-inspired-design).
