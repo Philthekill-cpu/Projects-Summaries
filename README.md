@@ -10,7 +10,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 | Project Name | Type | Focus Areas | Key Deliverables |
 | :--- | :--- | :--- | :--- |
 | **Low Carbon Water Supply System** | Group | Fluid Dynamics, Sustainability, FEA | [📁 View Folder](./low-carbon-water-supply-system) |
-| **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping,CNC Milling | [📂 View Folder](./vertical-axial-wind-turbine-proto) |
+| **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping, CNC Milling | [📂 View Folder](./vertical-axial-wind-turbine-proto) |
 | **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-data-analytics-site-assessment) |
 | **Bio-Inspired Engineering Design** | Individual | Bioengineering, Mechanics, Materials | [📂 View Folder](./bio-inspired-design) |
 
@@ -24,7 +24,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 2. Vertical Axis Wind Turbine (VAWT) Prototype
 * **Objective:** Engineered and manufactured a bench-scale vertical axis wind turbine optimized for low-speed urban environments.
 * **My Contribution:** Designed the airfoil profiles in SolidWorks, performed CFD (Computational Fluid Dynamics) aerodynamic simulations, and 3D-printed the rotor blades.
-* **Key Deliverables:** [Aerodynamic & Manufacturing Report](./vawt-prototype/design_report.pdf) and [CAD STEP Files](./vawt-prototype/cad/).
+* **Key Deliverables:** [Technical Reports](./vertical-axial-wind-turbine-proto), [Project Results](./vertical-axial-wind-turbine-proto).
 
 ### 3. Wind Analytics Site Assessment
 * **Objective:** Conducted a comprehensive meteorological and financial feasibility study for a proposed 50MW onshore wind farm.
