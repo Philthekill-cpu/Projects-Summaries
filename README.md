@@ -33,9 +33,9 @@ Welcome to my engineering project repository. This dashboard serves as a central
 * **Key Deliverables:** [Technical Reports](./solar-system-design/technical-reports) and [Project Results](./solar-system-design/project-results).
 
 ### 4. Wind Analytics Site Assessment
-* **Objective:** Conducted a comprehensive meteorological and financial feasibility study for a proposed 50MW onshore wind farm.
-* **My Contribution:** Analyzed 10 years of raw wind speed data using MATLAB/Python to calculate Weibull distribution parameters and forecast annual energy production (AEP).
-* **Key Deliverables:** [Site Assessment & Resource Forecasting Study](./wind-data-analytics-site-assessment).
+* **Objective:** Assess and recommend the best option for extending the Penmanshiel Wind Farm by increasing its installed capacity by at least 10 MW. This will be achieved by evaluating the wind resource, site suitability, environmental impacts, and expected energy output to develop an efficient and practical wind farm extension.
+* **My Contribution:** Analysed 10 years of raw wind speed data using Excel automation to calculate Weibull distribution parameters, forecasted annual energy production (AEP), tuned the Proportional-Integral-Derivative (PID) controller of the proposed wind turbine and run the simulation model to assess performance on Ashes.
+* **Key Deliverables:** [Phase 1](./wind-data-analytics-site-assessment/phase-1), [Phase 2](./wind-data-analytics-site-assessment/phase-2), [Phase 3](./wind-data-analytics-site-assessment/phase-3) [Simulation Models](./wind-data-analytics-site-assessment/simulation-models).
 
 ### 5. Bio-Inspired Engineering
 * **Objective:** Developed a mechanical structure utilizing biomimicry principles (inspired by bone microstructure) to optimize the strength-to-weight ratio of a load-bearing beam.
