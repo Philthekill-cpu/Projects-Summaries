@@ -50,7 +50,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 6. Numerical Simulation of the Fermi–Pasta–Ulam–Tsingou (FPUT) Lattice and Energy Recurrence
 * **Objective:** Simulating the Fermi–Pasta–Ulam–Tsingou (FPUT) lattice to investigate how energy transfers between vibrational modes in a nonlinear system and why it exhibits recurrence instead of thermalisation. 
 * **My Contribution:**  Programmed a Python simulation framework using NumPy and Matplotlib to model the FPUT lattice with RK4 time integration, nonlinear force calculations, and fixed boundary conditions. Modal energy analysis and visualisation of energy transfer across modes were used to observe recurrence behaviour.
-* **Key Deliverables:** [Technical Reports](./FPUT-numerical-simulation).
+* **Key Deliverables:** [Software Code](./FPUT-numerical-simulation).
 
 ---
 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/pingfanteng/) or [Email Me](mailto:ping_fan@live.com)
