@@ -56,7 +56,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 7. Automated Voltage Status Annunciator System
 * **Objective:** Developing a Python-based annunciator panel that monitors a sensor voltage input and provides visual status indication using a BlinkStick LED device.
 * **My Contribution:**  Programmed a Python control logic that reads sensor values through the scada.py library, implements the voltage threshold conditions, and controls the BlinkStick LED outputs.
-* **Key Deliverables:** [Software Code](./automated-voltage-status-annuciator-system).
+* **Key Deliverables:** [Technical Reports](./automated-voltage-status-annuciator-system/technical-reports) and [Software Code](./automated-voltage-status-annuciator-system).
 
 ---
 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/pingfanteng/) or [Email Me](mailto:ping_fan@live.com)
