@@ -13,7 +13,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 
 | Project Name | Type | Focus Areas | Key Deliverables |
 | :--- | :--- | :--- | :--- |
-| **Low Carbon Water Supply System** | Group | Fluid Dynamics, Sustainability, FEA | [📁 View Folder](./low-carbon-water-supply-system) |
+| **Low Carbon Water Supply System** | Group | Fluid Dynamics, Sustainability, CAD, Python | [📁 View Folder](./low-carbon-water-supply-system) |
 | **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping, CNC Milling | [📂 View Folder](./vertical-axial-wind-turbine-proto) |
 | **Solar System Design** | Group | Solar Resource, Solar Market Analysis, Solar Policies, PVSyst | [📂 View Folder](./solar-system-design) |
 | **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-data-analytics-site-assessment) |
