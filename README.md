@@ -50,4 +50,4 @@ Welcome to my engineering project repository. This dashboard serves as a central
 * **Data & Analytics:** Excel/VBA, Python (NumPy, Pandas), Wind Resource Assessment
 
 ---
-📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/pingfanteng/) and [Email Me](mailto:ping_fan@live.com)
+📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/pingfanteng/) or [Email Me](mailto:ping_fan@live.com)
