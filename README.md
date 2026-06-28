@@ -1,6 +1,6 @@
 # Projects-Summaries
 
-Welcome to my engineering project repository. This dashboard serves as a central hub linking to the various design, analysis, and research projects I completed during my university studies.
+Welcome to my engineering project repository. This dashboard serves as a central hub linking to the various design, analysis, and research projects I completed during my university studies. As for my final year project / master's thesis have I included in another repository.
 
 *Academic Integrity Notice:* *Official assignment prompt sheets and criteria have been omitted to prevent plagiarism. The linked subfolders contain only my original calculations, CAD models, simulation data, software coding and final reports.*
 
